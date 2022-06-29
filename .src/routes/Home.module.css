@@ -1,0 +1,10 @@
+.container {
+    width: 600px;
+    height: 300px;
+    background-image: url('https://www.latercera.com/resizer/oStaaBjKjrTK8rrWE2MFitEba_g=/900x600/smart/arc-anglerfish-arc2-prod-copesa.s3.amazonaws.com/public/FIN7ZFLY2VF7ZIO3F4VAH7DJ5I.jpg');
+    background-size: cover;
+    border-radius: 12px;
+    display: grid;
+    place-content: center;
+    margin-left: 25%;
+}
